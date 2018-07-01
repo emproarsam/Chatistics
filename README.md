@@ -110,7 +110,7 @@ To see the messages sent to you by the top 10 people with whom you talk the most
 
 `python analyse.py --data data/* --remove-sender "Your Name" -n 10`
 
-<img src="https://github.com/MasterScrat/Chatistics/raw/master/screenshots/histo.png" width="701" height="406">
+<img src="https://github.com/MasterScrat/Chatistics/raw/master/screenshots/histo.png" width="800" height="500">
 
 You can also plot the conversation densities using the `--plot-density` flag.
 
